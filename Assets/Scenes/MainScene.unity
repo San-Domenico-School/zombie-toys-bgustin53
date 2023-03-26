@@ -1261,7 +1261,7 @@ MonoBehaviour:
     type: 3}
   allySpawnPoint: {fileID: 382759236}
   allyImage: {fileID: 967483802}
-  testAlly: 0
+  testAlly: 1
 --- !u!1 &967483801
 GameObject:
   m_ObjectHideFlags: 0
